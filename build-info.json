@@ -1,0 +1,15 @@
+{
+  "buildTime": "2025-09-17T22:51:54.507Z",
+  "version": "v=1758149513777",
+  "files": {
+    "html": "index.html",
+    "css": [
+      "css/styles.css"
+    ],
+    "js": [
+      "js/config.js",
+      "js/app.js"
+    ],
+    "obfuscated": true
+  }
+}
