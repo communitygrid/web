@@ -1,8 +1,7 @@
 {
-  "deployedAt": "2025-09-17T23:04:25.3NZ",
+  "deployedAt": "2025-09-17T23:23:39.311Z",
   "sourceRepo": "https://github.com/communitygrid/site-source.git",
   "obfuscated": true,
   "buildTool": "javascript-obfuscator v4.0.2",
-  "deployedFrom": "clean-history-deployment",
-  "historyCleared": true
+  "deployedFrom": "private-repo-build"
 }
